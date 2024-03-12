@@ -8,3 +8,5 @@ The code here is not all the code in the book.
 I'm just going to write down the parts that I find interesting.
 ### ch01
 Rust concurrency basics
+### ch02
+operating atomic values
